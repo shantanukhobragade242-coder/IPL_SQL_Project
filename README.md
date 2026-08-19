@@ -1,6 +1,6 @@
 # IPL Data Analysis using SQL
 
-![](ipl.png)
+![](download.png)
 
 ## Overview
 
